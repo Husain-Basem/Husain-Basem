@@ -26,6 +26,7 @@ I'm based in Bahrain and currently pursuing my master's degree at **Boston Unive
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -37,6 +38,7 @@ I'm based in Bahrain and currently pursuing my master's degree at **Boston Unive
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Cloud, Data & Tools**
@@ -71,9 +73,7 @@ Developed parking-space detection, license plate recognition, and digital paymen
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Husain-Basem&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="160" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Husain-Basem&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
+<img src="https://github-stats-extended.vercel.app/api?username=Husain-Basem&show_icons=true&hide_border=true&hide_rank=true&theme=transparent" alt="Husain's GitHub statistics" height="160" />
 
 <sub>These third-party statistics reflect public GitHub activity and may not capture private or professional work.</sub>
 
