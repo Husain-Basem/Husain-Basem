@@ -69,11 +69,13 @@ Developed parking-space detection, license plate recognition, and digital paymen
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Husain-Basem&show_icons=true&hide_border=true&theme=transparent" alt="Husain's GitHub statistics" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Husain-Basem&show_icons=true&hide_border=true&hide_rank=true&theme=transparent" alt="Husain's GitHub statistics" height="160" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Husain-Basem&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="160" />
 </div>
 
-<img src="https://github-stats-extended.vercel.app/api?username=Husain-Basem&show_icons=true&hide_border=true&hide_rank=true&theme=transparent" alt="Husain's GitHub statistics" height="160" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Husain-Basem&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</div>
 
 <sub>These third-party statistics reflect public GitHub activity and may not capture private or professional work.</sub>
 
